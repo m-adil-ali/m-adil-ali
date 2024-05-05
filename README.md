@@ -9,3 +9,7 @@ My passion for the world of data has been a driving force throughout my career, 
 - 🌱 Actively participating in coding competitions & hackathons.
 - 📫 How to reach me: [email](muhamad.adil.ale@gmail.com)
 
+- - -
+### My Skill Set 🛠️:
+
+
