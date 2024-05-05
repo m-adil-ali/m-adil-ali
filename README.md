@@ -15,7 +15,9 @@ My passion for the world of data has been a driving force throughout my career, 
 <a href="www.linkedin.com">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
 </a>
+
 - - -
+
 ### Github Stats📈:
 ![Muhammad Adil Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-adil-ali&theme=dark&show_icons=true)
 - - -
