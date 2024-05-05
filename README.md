@@ -12,7 +12,8 @@ My passion for the world of data has been a driving force throughout my career, 
 ### My Skill Set 🛠️:
 - - -
 ### Connect with me🤝:
-<a href="www.linkedin.com">
+<a align= center
+    href="www.linkedin.com">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
 </a>
 
