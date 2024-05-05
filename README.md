@@ -10,6 +10,8 @@ My passion for the world of data has been a driving force throughout my career, 
 - 📫 How to reach me: [email](muhamad.adil.ale@gmail.com)
 
 - - -
+
+![Muhammad Adil Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-adil-ali&theme=dark&show_icons=true)
 <!--
 ### My Skill Set 🛠️:
 <table>
