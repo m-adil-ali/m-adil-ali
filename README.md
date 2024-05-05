@@ -10,6 +10,7 @@ My passion for the world of data has been a driving force throughout my career, 
 - 📫 How to reach me: [email](muhamad.adil.ale@gmail.com)
 
 - - -
+<!--
 ### My Skill Set 🛠️:
 <table>
 <td>
@@ -31,3 +32,4 @@ My passion for the world of data has been a driving force throughout my career, 
 </td>
   
 </table>
+-->
