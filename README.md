@@ -8,9 +8,12 @@ My passion for the world of data has been a driving force throughout my career, 
 - 🥉 Hackathon winner @iCodeGuru
 - 🌱 Actively participating in coding competitions & hackathons.
 - 📫 How to reach me: [email](muhamad.adil.ale@gmail.com)
-
+- - -
+### My Skill Set 🛠️:
 - - -
 
+- - -
+### Github Stats📈:
 ![Muhammad Adil Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-adil-ali&theme=dark&show_icons=true)
 <!--
 ### My Skill Set 🛠️:
