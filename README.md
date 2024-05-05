@@ -18,7 +18,7 @@ My passion for the world of data has been a driving force throughout my career, 
 - - -
 ### Connect with me🤝:
 <a align= center
-    href="www.linkedin.com">
+    href="[LinkedIn](https://www.linkedin.com/in/m-adil-ali/)">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
 </a>
 
