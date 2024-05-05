@@ -10,6 +10,11 @@ My passion for the world of data has been a driving force throughout my career, 
 - 📫 How to reach me: [email](muhamad.adil.ale@gmail.com)
 - - -
 ### My Skill Set 🛠️:
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS">
+
+
 - - -
 ### Connect with me🤝:
 <a align= center
