@@ -20,47 +20,17 @@ My passion for the world of data has been a driving force throughout my career, 
 ### Connect with me🤝:
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://www.linkedin.com/in/m-adil-ali/">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" style="width: 70px; height: 70px; margin: 10 30px; padding-left: 25px;"">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" style="width: 70px; height: 70px; margin: 10 30px; padding-right: 25px;">
     </a>
     <a href="https://github.com/m-adil-ali/">
-        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" style="width: 70px; height: 70px; margin: 10 30px; padding-left: 25px;"">
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" style="width: 70px; height: 70px; margin: 10 30px; padding-left: 25px;">
     </a>
 </div>
 
 
-<a href="https://www.linkedin.com/in/m-adil-ali/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/m-adil-ali/">
-    <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="LinkedIn">
-</a>
 - - -
 
 ### Github Stats📈:
 ![Muhammad Adil Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-adil-ali&theme=dark&show_icons=true)
 - - -
 
-<!--
-### My Skill Set 🛠️:
-<table>
-<td>
-  <tr>
-    hello
-  </tr>
-  
-  <tr>
-    world
-  </tr>
-  <tr>
-    oror
-  </tr>
-</td>
-<td>
-  <tr>
-    na na
-  </tr>
-</td>
-  
-</table>
--->
