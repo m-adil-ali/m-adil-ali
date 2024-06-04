@@ -18,6 +18,16 @@ My passion for the world of data has been a driving force throughout my career, 
 
 - - -
 ### Connect with me🤝:
+<div class="icon-container">
+    <a href="https://www.linkedin.com/in/m-adil-ali/">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/m-adil-ali/">
+        <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="GitHub">
+    </a>
+</div>
+
+
 <a href="https://www.linkedin.com/in/m-adil-ali/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
 </a>
