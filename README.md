@@ -25,7 +25,7 @@ My passion for the world of data has been a driving force throughout my career, 
 </div>
 <div style="display: flex; justify-content: center; align-items: center; padding-left: 25px;">
     <a href="https://github.com/m-adil-ali/">
-        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" style="width: 70px; height: 70px; padding-left: 25px;">
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" style="width: 70px; height: 70px;">
     </a>
 </div>
 
