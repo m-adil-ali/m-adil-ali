@@ -7,7 +7,7 @@ My passion for data has been a driving force throughout my career, and I have co
 - 👯 I’m looking to collaborate on Data Science projects.
 - 🥉 Hackathon winner @iCodeGuru
 - 🌱 Actively participating in coding competitions & hackathons.
-- 📫 How to reach me: [email](muhamad.adil.ale@gmail.com)
+- 📫 How to reach me: [email](mailto:muhamad.adil.ale@gmail.com)
 - - -
 ### My Skill Set 🛠️:
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python">
