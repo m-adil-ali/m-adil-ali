@@ -28,7 +28,11 @@ My passion for data has been a driving force throughout my career, and I have co
         <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" style="width: 70px; height: 70px;">
     </a>
 </div>
-
+<div style="display: flex; justify-content: center; align-items: center; padding-left: 25px;">
+    <a href="mailto:muhamad.adil.ale@gmail.com/">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" style="width: 70px; height: 70px;">
+    </a>
+</div>
 
 - - -
 
